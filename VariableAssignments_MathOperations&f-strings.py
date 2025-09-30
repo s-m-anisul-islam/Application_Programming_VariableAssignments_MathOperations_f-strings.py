@@ -1,4 +1,4 @@
-print("Lab 1. Submitted by: S M Anisul Islam, Humber Number: N01747584;")
+print("S M Anisul Islam;")
 x = 4
 y = 2
 print("x + y =", x + y)
@@ -18,3 +18,4 @@ print(f"The bill of ${bill_total} split between {num_people} people "f"is {int(c
 dessert_cost = 6.55
 total_cost_of_desserts = dessert_cost * num_people
 print(f"If each of {num_people} people orders dessert at ${dessert_cost}, "f"the total cost of desserts is ${total_cost_of_desserts:.2f}.")
+
